@@ -7,3 +7,4 @@ This project addresses a growing content report backlog for TikTok's Operations 
 1. Clone this repository to your local system or cloud environment:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/tiktok-verified-prediction.git](https://github.com/YOUR_USERNAME/tiktok-verified-prediction.git)
+pip install pandas numpy matplotlib seaborn scikit-learn
